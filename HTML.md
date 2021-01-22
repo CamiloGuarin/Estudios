@@ -37,7 +37,7 @@ Los encabezados html se definen con las etiquetas ```<h1>``` hasta ```<h6>```, d
   <h2>Este es el encabezado 2</h2>
   ```
 ### Párrafos HTML
-Los párrafos en html se definen con la etiqueta <p>.
+Los párrafos en html se definen con la etiqueta ```<p>```.
 **Ejemplo:**
   ```html
   <p>Este es un párrafo</p>
