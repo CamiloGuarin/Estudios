@@ -17,6 +17,7 @@
 </body>
 </html>
 ```
+### La declaración <!DOCTYPE>
 * La declaración <!DOCTYPE> representa el tipo de documento y ayuda a los navegadores a mostrar las páginas web correctamente y solo aparece una vez en todo el documento y es al principio.
 * La declaración para HTML5 es:
 ```html
