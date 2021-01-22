@@ -1,4 +1,7 @@
 # HTML
+- HTML significa Hyper Text Markup Languaje
+- Lenguaje de marcado estándar para crear páginas web
+- Describe la estructura de una página web
 ## Estructura Básica:
 ```html
 <!DOCTYPE html>
@@ -13,4 +16,9 @@
 
 </body>
 </html>
-
+```
+* La declaración <!DOCTYPE> representa el tipo de documento y ayuda a los navegadores a mostrar las páginas web correctamente y solo aparece una vez en todo el documento y es al principio.
+* La declaración para HTML5 es:
+```html
+<!DOCTYPE html>
+```
