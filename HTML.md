@@ -17,6 +17,11 @@
 </body>
 </html>
 ```
+- La declaración ```<!DOCTYPE html>``` define que el documento es HTML5
+- El elemento ```<html>``` es el elemento raíz de una página html
+- El elemento ```<head>```contiene metainformación sobre la página html
+- El elemento ```<title>```indica el título de la página html, se muestra en la barra de título del navegador o en la pestaña de la página
+- El elemento ```<body>``` define el cuerpo del documento y contiene todo el contenido visible para la página html
 ### La declaración <!DOCTYPE>
 * La declaración <!DOCTYPE> representa el tipo de documento y ayuda a los navegadores a mostrar las páginas web correctamente y solo aparece una vez en todo el documento y es al principio.
 * La declaración para HTML5 es:
@@ -38,5 +43,15 @@ Los párrafos en html se definen con la etiqueta <p>.
   <p>Este es un párrafo</p>
   ```
 ### Enlaces HTML
-
+Los enlaces html se definen con la etiqueta ```<a>```
+**Ejemplo:**
+  ```html
+  <a href="https://github.com/CamiloGuarin/Estudios">Este es un Link</a>
+  ```
+- El destino del enlace se especifíca con el atributo ```href```.
+### Imágene HTML
+Las imágenes en html se definen con la etiqueta ```<img>```, el archivo de origen ```src```, el texto alternativo ```alt``` y ```width``` y ```height``` como atributos.
+**Ejemplo:**
+```html
+<img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" alt="github.com" width="120" height="170">
 
