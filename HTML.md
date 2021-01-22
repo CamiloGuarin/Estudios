@@ -1,6 +1,6 @@
 # HTML
 ## Estructura Básica:
-
+```html
 <!DOCTYPE html>
 <html>
 <head>
