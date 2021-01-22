@@ -23,3 +23,18 @@
 ```html
 <!DOCTYPE html>
 ```
+
+### Encabezados HTML
+Los encabezados html se definen con las etiquetas <h1> hasta <h6>, donde <h1> define el encabezado más importante y <h6>. el menos importante.
+**Ejemplo:**
+  ```html
+  <h1>Este es el encabezado 1</h1>
+  <h2>Este es el encabezado 2</h2>
+  ```
+### Párrafos HTML
+Los párrafos en html se definen con la etiqueta <p>.
+**Ejemplo:**
+  ```html
+  <p>Este es un párrafo</p>
+  ```
+
