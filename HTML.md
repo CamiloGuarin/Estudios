@@ -31,6 +31,7 @@
 
 ### Encabezados HTML
 Los encabezados html se definen con las etiquetas ```<h1>``` hasta ```<h6>```, donde ```<h1>``` define el encabezado más importante y ```<h6>``` el menos importante.
+
 **Ejemplo:**
   ```html
   <h1>Este es el encabezado 1</h1>
@@ -38,12 +39,14 @@ Los encabezados html se definen con las etiquetas ```<h1>``` hasta ```<h6>```, d
   ```
 ### Párrafos HTML
 Los párrafos en html se definen con la etiqueta ```<p>```.
+
 **Ejemplo:**
   ```html
   <p>Este es un párrafo</p>
   ```
 ### Enlaces HTML
-Los enlaces html se definen con la etiqueta ```<a>```
+Los enlaces html se definen con la etiqueta ```<a>```.
+
 **Ejemplo:**
   ```html
   <a href="https://github.com/CamiloGuarin/Estudios">Este es un Link</a>
@@ -51,6 +54,7 @@ Los enlaces html se definen con la etiqueta ```<a>```
 - El destino del enlace se especifíca con el atributo ```href```.
 ### Imágene HTML
 Las imágenes en html se definen con la etiqueta ```<img>```, el archivo de origen ```src```, el texto alternativo ```alt``` y ```width``` y ```height``` como atributos.
+
 **Ejemplo:**
 ```html
 <img src="https://github.githubassets.com/images/modules/open_graph/github-octocat.png" alt="github.com" width="120" height="170">
