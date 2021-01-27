@@ -10,6 +10,9 @@ Un elemento HTML se define con una etiqueta de inicio, un contenido y una etique
 <h1>Esto es un título</h1>
 <p>Esto es un párrafo</p>
 ```
+#### Elementos
 
-- ``<html>`` Elemento raíz que define el documento HTML.
-- ``<body>`` Define el cuerpo del documento.
+- `<html>` Elemento raíz que define el documento HTML.
+- `<body>` Define el cuerpo del documento.
+-`<h1>` Define un encabezado.
+-`<p`Define un párrafo.
