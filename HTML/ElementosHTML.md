@@ -22,4 +22,4 @@ Un elemento HTML se define con una etiqueta de inicio, un contenido y una etique
      ```html
      <p>Esto es un párrafo <br> con un slato de línea</p>
      ```
-        
+
