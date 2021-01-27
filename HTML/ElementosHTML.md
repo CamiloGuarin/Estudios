@@ -1,8 +1,8 @@
 ### Elemento HTML:
 
 Un elemento HTML se define con una etiqueta de inicio, un contenido y una etiqueta de finalización
-```html
-<nombre de etiqueta> El contenido </nombre de etiqueta>
+```
+< nombre de etiqueta > El contenido < / nombre de etiqueta >
 ```
 
 **Ejemplo:**            
