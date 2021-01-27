@@ -18,8 +18,8 @@ Un elemento HTML se define con una etiqueta de inicio, un contenido y una etique
 - `<p>`Define un párrafo.
 - `<br>`Define un salto de línea, este es un elemento vacío por lo que no cuenta con etiqueta de cierre.  
 
- **Ejemplo:**
-        ```html
-        <p>Esto es un párrafo <br> con un slato de línea</p>
-        ```
+         **Ejemplo:**
+                ```html
+                <p>Esto es un párrafo <br> con un slato de línea</p>
+                ```
         
