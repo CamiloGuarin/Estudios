@@ -11,7 +11,8 @@
   <meta name="description" content="Descripción de la página cuando es buscada en el navegador />
   <meta name="robots" content="index,follow">    
   <meta name="viewport" content="width=device-width, initial-scale=1.0">                                         
-<title>Page Title</title>
+  <title>Page Title</title>
+  <link rel="stylesheet" href="./css/style.css">                                                                     
 </head>
 <body>
 
