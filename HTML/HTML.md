@@ -19,7 +19,7 @@
 ```
 - La declaración ```<!DOCTYPE html>``` define que el documento es HTML5
 - El elemento ```<html>``` es el elemento raíz de una página html
-- El elemento ```<head>```contiene metainformación sobre la página html
+- El elemento ```<head>```contiene metainformación sobre la página html, todo lo que necesita el navegador para que el proyecto pueda cargar de la forma en la que lo hicimos
 - El elemento ```<title>```indica el título de la página html, se muestra en la barra de título del navegador o en la pestaña de la página
 - El elemento ```<body>``` define el cuerpo del documento y contiene todo el contenido visible para la página html
 ### La declaración <!DOCTYPE>
