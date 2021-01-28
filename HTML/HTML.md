@@ -9,7 +9,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="description" content="Descripción de la página cuando es buscada en el navegador />
-  <meta name="robots"                               
+  <meta name="robots" content="index,follow">                               
 <title>Page Title</title>
 </head>
 <body>
