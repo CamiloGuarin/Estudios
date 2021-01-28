@@ -9,7 +9,8 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="description" content="Descripción de la página cuando es buscada en el navegador />
-  <meta name="robots" content="index,follow">                               
+  <meta name="robots" content="index,follow">    
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">                                         
 <title>Page Title</title>
 </head>
 <body>
@@ -22,7 +23,7 @@
 ```
 - La declaración ```<!DOCTYPE html>``` define que el documento es HTML5
 - El elemento ```<html>``` es el elemento raíz de una página html
-- El elemento ```<head>```contiene metainformación sobre la página html, todo lo que necesita el navegador para que el proyecto pueda cargar de la forma en la que lo hicimos. `charset="UTF-8"`, esto es para que el navegador pueda entender caracteres especiales. `<meta name="robots" content="index,follow" />` esto es para autorizar a los robots de los buscadores a colocar nuestra página en relación con la búsqueda que se hace.
+- El elemento ```<head>```contiene metainformación sobre la página html, todo lo que necesita el navegador para que el proyecto pueda cargar de la forma en la que lo hicimos. `charset="UTF-8"`, esto es para que el navegador pueda entender caracteres especiales. `<meta name="robots" content="index,follow" />` esto es para autorizar a los robots de los buscadores a colocar nuestra página en relación con la búsqueda que se hace. `<meta name="viewport" content="width=device-width, initial-scale=1.0">`Esto es para que cuando el proyecto se abra en una página web pueda escalarse el texto y las imágenes para que se pueda ver mejor en un dispositivo mobile.
 - El elemento ```<title>```indica el título de la página html, se muestra en la barra de título del navegador o en la pestaña de la página
 - El elemento ```<body>``` define el cuerpo del documento y contiene todo el contenido visible para la página html
 ### La declaración <!DOCTYPE>
